@@ -7,24 +7,16 @@
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+Step into the digital rain and unleash your creativity with this Matrix-inspired ASCII art visualiser! This project, built with Next.js and TypeScript, transforms GIFs from the Matrix series into mesmerizing ASCII art animations. Choose from three scenes - 'Neo', 'Bullet Time', and 'Morpheus' and customize the visuals to create unique pieces of digital art.
 
-## Deployment
+## Features
 
-Your project is live at:
+*   **ASCII Art Generation from GIFs:** Transforms GIFs into ASCII art animations.
+*   **Customizable Visuals:** Fine-tune scenes with custom character sets
+*   **Adjustable Scale/Zoom:** Zoom in and out to get the perfect view of your ASCII art.
 
-**[https://vercel.com/jmdpattersons-projects/v0-free-your-mind](https://vercel.com/jmdpattersons-projects/v0-free-your-mind)**
+## How to Use
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/aAv2wtbrRHn](https://v0.dev/chat/projects/aAv2wtbrRHn)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1.  **Enter the Matrix:** Click the "Enter the Matrix" button on the welcome popup to start the experience.
+2.  **Explore the Modes:** Use the design panel to switch between Neo, Bullet Time, and Morpheus modes.
+3.  **Customize Your Art:** Adjust the character set and scale to create new styles.
