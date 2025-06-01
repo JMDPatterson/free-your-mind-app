@@ -20,9 +20,3 @@ Step into the digital rain and unleash your creativity with this Matrix-inspired
 1.  **Enter the Matrix:** Click the "Enter the Matrix" button on the welcome popup to start the experience.
 2.  **Explore the Modes:** Use the design panel to switch between Neo, Bullet Time, and Morpheus modes.
 3.  **Customize Your Art:** Adjust the character set and scale to create new styles.
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/jmdpattersons-projects/v0-free-your-mind](https://vercel.com/jmdpattersons-projects/v0-free-your-mind)**
